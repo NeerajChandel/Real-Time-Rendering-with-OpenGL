@@ -1,0 +1,5 @@
+#include "OGLPP.h"
+
+// bitmap
+IDBITMAP_KUNDALI BITMAP DISCARDABLE "Vijay_Kundali.bmp"
+IDBITMAP_STONE   BITMAP DISCARDABLE "Stone.bmp"
